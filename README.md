@@ -1,7 +1,7 @@
 # 🏔️ OpenEverest Public Roadmap
 
 <p align="center">
-  <img src="https://github.com/openeverest/.github/blob/main/logo/everest-black-full-color.png" alt="OpenEverest Logo" width="300"/>
+  <img src="https://github.com/openeverest/.github/blob/main/logo/logo-horizontal-full-color-white-min.png" alt="OpenEverest Logo" width="300"/>
 </p>
 
 ## 👋 Introduction
