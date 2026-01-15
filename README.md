@@ -6,59 +6,64 @@
 
 ## 👋 Introduction
 
-This repository contains the **public roadmap for the OpenEverest product**.
+Welcome to the **public roadmap for OpenEverest**.
 
-Knowing about our upcoming products and priorities helps our users and partners plan. This repository provides transparent information about what we are working on and allows our community and customers to give direct feedback by [opening an issue](https://github.com/openeverest/roadmap/issues/new/choose).
+This repository provides transparency into what we are working on, helping our partners and community plan ahead. It is the best place to see our current priorities and future vision.
 
-[See the roadmap >>](https://github.com/orgs/openeverest/projects/1)
+### 🔗 Quick Links
+* **[View the Roadmap Board >>](https://github.com/orgs/openeverest/projects/1)**
+* **Official Website:** [openeverest.io](https://openeverest.io)
+* **Product Vision:** [vision.openeverest.io](https://vision.openeverest.io)
 
+---
 
-* **Official Website:** [https://openeverest.io](https://openeverest.io)
-* **Product vision:** [https://vision.openeverest.io](https://vision.openeverest.io)
+## 📣 How to Provide Feedback
+
+**Please note:** This repository is for tracking purposes only.
+
+To suggest a feature, report a bug, or provide feedback, please use our main repository:
+
+1.  Go to **[openeverest/openeverest](https://github.com/openeverest/openeverest/issues)**.
+2.  Open a new issue.
+3.  **Important:** Add the `roadmap` label to your issue so it appears on this board.
+4.  Feel free to react with 👍 on existing issues that are important to you.
 
 ---
 
 ## 🗺️ Roadmap Categories
 
-Our roadmap is organized into several categories to help you understand the status of each feature:
+We organize our roadmap into four stages to indicate feature status:
 
 | Category | Meaning |
 | :--- | :--- |
-| **Shipped** | Features that have recently been released. |
-| **Coming Soon** | We finished engineering and doing some last checks and preparations. |
-| **In the works** | We have started working on it. |
-| **Researching** | We are exploring this idea. This is the best phase for providing detailed use cases and design input! |
+| **Shipped** | Features that have been released and are available now. |
+| **Coming Soon** | Development is complete. We are performing final checks and polish. |
+| **In the Works** | Active development has started. |
+| **Researching** | We are exploring this idea. This is the best time to provide detailed use cases and design input! |
 
 ---
 
 ## 🔒 Security Disclosures
 
-**Security is job zero.**
+**Security is our top priority.**
 
-If you think you’ve found a potential security issue, **please do not post it in the Issues section**. Instead, please contact us privately via our community Slack channel:
+If you discover a potential security issue, please report it via our [Private Security Advisory](https://github.com/openeverest/openeverest/security/advisories).
 
-* **Slack Channel:** `#openeverest-users` (available in the broader cloud-native Slack workspace)
-    * *Direct Link:* [https://cloud-native.slack.com/archives/C09RRGZL2UX](https://cloud-native.slack.com/archives/C09RRGZL2UX)
+**⚠️ Please do not post security issues in the public Issues section.**
+
+For general security discussions, you can contact us via Slack:
+* **Slack Channel:** `#openeverest-users`
+* **Direct Link:** [Join the conversation here](https://cloud-native.slack.com/archives/C09RRGZL2UX)
 
 ---
 
 ## ❓ FAQs
 
 ### Why do you share your roadmap publicly?
+We want to provide insights that help our community and customers make better decisions based on our development efforts.
 
-We share our roadmap because our community and customers make plans based on our development efforts. We want to provide the insights you need for better planning and decision-making.
-
-### Why are there no specific dates on the roadmap?
-
-We prioritize security and operational stability, which means we cannot provide specific target launch dates for features. The roadmap is subject to change at any time, and issues in this repository do not guarantee a feature will be launched as proposed.
+### Why are there no specific dates?
+We prioritize security and operational stability over fixed deadlines. While we strive to meet our goals, the roadmap is subject to change. Issues in this repository are not a guarantee of a specific launch date.
 
 ### Is every development effort on this roadmap?
-
-The majority of our development work is included here. However, there may be smaller technologies or surprise features we launch without notice to delight our users.
-
-### How can I provide feedback or suggest a new feature?
-
-Please open an issue!
-
-* To provide **feedback** on existing items or ask for more information, [open an issue](https://github.com/openeverest/roadmap/issues/new/choose).
-* To **request a new feature**, [open an issue](https://github.com/openeverest/roadmap/issues/new/choose) and it will be tagged "Proposed" for review by the team.
+Most of our work is included here. However, we occasionally launch smaller updates or "surprise" features without prior notice to delight our users.
